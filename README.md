@@ -1,1 +1,1 @@
-# Diary-Management-System
+#Journal with Sentimental Analysis
